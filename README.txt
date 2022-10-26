@@ -1,3 +1,1 @@
-# The Mice Counter
-
-TheMiceCounter is an application for managing  mice litters' data. The app allows the user to choose specific information of a mice lattice, such as id, genotype, sex, date of birth, age, etc. and creates excel files showing that data in either a new excel Workbook or a new sheet of a pre-existing one.  Additionally, it plots the Quantity of mice vs their Age saves the plot both as a JPG file in a different folder, and in the excel file the user created. This application was created to use the data downloaded from RedCap, and it is intended to grow so that the user can directly use data from it to create excel files with plotted data. 
+# statistical_learning
