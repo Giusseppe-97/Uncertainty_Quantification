@@ -45,7 +45,7 @@ def main():
 
     # read dataset from csv file
     data_name = "abalone_classification"
-    data_X, data_y = load_data("{}.csv".formant(data_name))
+    data_X, data_y = load_data("{}.csv".format(data_name))
 
     # CrossValidation with 5 splits
     kf = KFold(n_splits=5, random_state=random_state)
