@@ -1,0 +1,1 @@
+https://github.com/mrodzlgd/Diagnosing_Diabetic_Retinopathy/blob/master/Tech_Notebook.ipynb
