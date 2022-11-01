@@ -1,1 +1,19 @@
+Messidor:
 https://github.com/mrodzlgd/Diagnosing_Diabetic_Retinopathy/blob/master/Tech_Notebook.ipynb
+
+Yeast:
+https://www.kaggle.com/code/mpwolke/yeast-protein-localization/notebook
+https://www.kaggle.com/datasets/samanemami/yeastcsv/code
+https://github.com/sbsreedh/Classification-of-yeast-using-Random-Forest/blob/master/Q2.ipynb
+
+StarCraft:
+https://www.kaggle.com/code/peterwarren/starcraft-ranking-prediction
+https://jhawe.github.io/skillcraft/
+https://github.com/ML-FGA-2018-2-Grupo-E/Skillcraft-Starcraft
+https://github.com/tsuilouis/SkillCraft-ML
+
+Cargo 2000:
+https://github.com/whosurajnegi/Cargo2000/blob/main/ClassificationCargo.ipynb
+
+Parkinsons:
+https://www.kaggle.com/code/vikasukani/detecting-parkinson-s-disease-machine-learning/notebook
