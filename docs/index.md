@@ -4,7 +4,7 @@ permalink: /
 nav_order: 1
 ---
 
-# Statistical_learning_final_project
+# Statistical learning final project
 
 In this project, I am going to analyze some real-world datasets using supervised machine learning algorithms. Regression and classification are the main subjects studied.
 
