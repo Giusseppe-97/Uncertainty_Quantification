@@ -1,30 +1,60 @@
 ---
-title: TheMiceCounter
+title: Statistical_learning_final_project
 permalink: /
 nav_order: 1
 ---
 
-# TheMiceCounter
+# Statistical_learning_final_project
 
-TheMiceCounter is an application for managing mice litter's data. The app allows the user to choose specific information of a mice litters, such as id, genotype, sex, date of birth, age, etc. and creates excel files showing that data in either a new excel Workbook or a new sheet of a pre-existing one.  Additionally, it plots the Number of mice vs their Age saves the plot both as a JPG file in a different folder and in the excel file the user created. This application was created to use the data downloaded from RedCap, and it is intended to grow so that the user can directly use data from it to create excel files with plotted data. [Stay tuned](pages/stay tuned/stay tuned.html) for new updates on the app.
+In this project, I am going to analyze some real-world datasets using supervised machine learning algorithms. Regression and classification are the main subjects studied.
 
-  + This application is written in Python and uses it's Graphical User Interface toolkit: Tkinter.
+  + This project is written in Jupyter Notebook in order to be as interactive and visual as possible. The codes for both the regression and the classification algorithms are the solutions of the tutorials submitted each week in my Statistical Learning course. 
 
-<img src="img/The_mice_counter_GUI.png" width="100%">
-
-Ideally, the application should work on any computer that has Excel. The result are shown in the following image:
+Ideally, the repository should work on any computer that runs Jupyter Notebook. Even if the main codes are witten for pc, mac code is added in the repository and can be easily addapted. 
 
 <img src="img/The_mice_counter_xlsx_result.png" width="100%">
 
+## Motivation
+
+For the submission of this project, I was encouraged to not only adapt the codes to some given datasets, but to understand the undergoing functionality of each algorithm. Particularly, I wanted to get a better notion of when to use each algorithm and how well I they can perform under different characteristics, without overfitting them.   
+
 ## Organization
 
-The main components of the software are divided into two different frames:
-+ [Run Data](pages/Run Data/Run Data.html) - the core section where the input data can be selected.
-+ [Histogram Display Preview](pages/Histogram Display Preview/Histogram Display Preview.html) - accessory display where the images created by the simulation can be seen previous to being saved in the excel file. This makes it easier to run different periods of time and analyze the outputs.
+* For regression datasets, `Mean Squared Error` (MSE) is usually used to evaluate the performances of regressors. The regression algorithms include:
+  + Linear Regression
+  + Support Vectore Regression
+  + Decision Tree Regression
+  + Random Forest Regression
+  + Gradient Boosting Regression
+  + Multi-Layer Perceptron Regression
+  
+* For classification, `Accurcary` is usually used to evaluate the performances of classifiers. The classification algorithms include:
+  + Logistic Regression 
+  + Support Vector Machine
+  + Linear Discriminant Analysis
+  + Decision Tree Classification (Trimming is Optional)
+  + Random Forest Classification
+  + Adaboost Classification 
+  + Multi-Layer Perceptron Classification
+
+##  Tasks acomplished:
+1. Results Summary:
+  + For each dataset, 3 algorithms or more were runned and their results were summarized.
+2. Results Comparison:
+  + For each dataset, I described why I think my algorithms performs differently.
+    + some algorithms may suffer from the curse of dimensionality;
+    + some algorithms take a lot of time to run on XXX dataset;
+    + too many categorical variables may affect the performace of a certain algorithm;
+3. Parameter Analysis:
+  + For the Messidor dataset and the SVM algorithm, I explore the relationship between the parameter and corresponding performances. I runned the model with different parameters on this dataset and recorded multiple test errors. 
+Then I found out the best performance and its corresponding parameters.
 
 ## Getting started
-Check the [installation](pages/installation/installation.html) to download the application.
+
+Check the [installation](pages/installation/installation.html) to learn how to clone the repository.
 
 Check the [demos](pages/demos/demos.html) to see how to:
-+ Introduction to the application
-+ Start creating excel files and/or excel sheets with new data
++ Introduction to the datasets.
++ Introduction to the algorithms.
++ Distribution of the algorithms used for each dataset.
++ Start running the algorithms and discovering their results by yourself.
