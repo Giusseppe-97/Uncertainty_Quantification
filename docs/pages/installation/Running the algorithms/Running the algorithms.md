@@ -1,5 +1,5 @@
 ---
-title: Running the App
+title: Running the algorithms
 has_children: false
 parent: Installation
 nav_order: 2
