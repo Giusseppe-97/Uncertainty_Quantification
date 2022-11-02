@@ -1,5 +1,5 @@
 ---
-title: Statistical_learning_final_project
+title: Statistical learning final project
 permalink: /
 nav_order: 1
 ---
