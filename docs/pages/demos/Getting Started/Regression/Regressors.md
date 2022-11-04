@@ -6,9 +6,7 @@ grand_parent: Demos
 nav_order: 1
 ---
 
-# Step by step
-
-## Summary
+# Summary
 <img src="summary_r.PNG" width="100%">
 
 
