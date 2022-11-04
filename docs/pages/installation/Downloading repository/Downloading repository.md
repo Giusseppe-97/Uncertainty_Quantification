@@ -35,7 +35,7 @@ C:\Users\<user-name>\Documents\statistical_learning
 Go to <https://github.com/Giusseppe-97/statistical_learning>, and check if the files match the one you just downloaded.
 If they don't, verify that you downloaded the last version.
 
-If they do, you are now ready to try the first [demo](../demos/Getting_started/getting_started.html)!
+If they do, you are now ready to try the first [demo](../demos/Getting Started/getting_started.html)!
 
 
 
