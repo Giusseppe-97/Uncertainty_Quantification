@@ -10,4 +10,6 @@ nav_order: 3
 * TOC
 {:toc}
 
-The pages found here showcase how to run TheMiceCounter, where experimental data is abstracted from an excel file (ideally downloaded from the RedCap page) and can be then visualized as new excel woorkbooks or sheets.
+The pages found here showcase how to run the codes. Experimental datasets are given as csv files, the codes are written in Jupyter Notebooks and going through them you can visualize the results.
+
+
