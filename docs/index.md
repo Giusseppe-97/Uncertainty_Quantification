@@ -39,12 +39,14 @@ For the submission of this project, I was encouraged to not only adapt the codes
 
 ##  Tasks acomplished:
 1. Results Summary:
-  + For each dataset, 3 algorithms or more were runned and their results were summarized.
+  + For each dataset, 3 algorithms or more were runned and their results (performance metric) were summarized in a given table.
 2. Results Comparison:
-  + For each dataset, I described why I think my algorithms performs differently.
-    + some algorithms may suffer from the curse of dimensionality;
-    + some algorithms take a lot of time to run on XXX dataset;
-    + too many categorical variables may affect the performace of a certain algorithm;
+    I described for each dataset why I think my algorithms perform differently.
+    Note:
+    + some algorithms suffered from the curse of dimensionality;
+    + some algorithms took longer to run in specific datasets;
+    + too many categorical variables affected the performace of an algorithm;
+    
 3. Parameter Analysis:
   + For the Messidor dataset and the SVM algorithm, I explore the relationship between the parameter and corresponding performances. I runned the model with different parameters on this dataset and recorded multiple test errors. 
 Then I found out the best performance and its corresponding parameters.
