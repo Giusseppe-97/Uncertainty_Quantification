@@ -12,8 +12,6 @@ In this project, I am going to analyze some real-world datasets using supervised
 
 Ideally, the repository should work on any computer that runs Jupyter Notebook. Even if the main codes are witten for pc, mac code is added in the repository and can be easily addapted. 
 
-<img src="img/The_mice_counter_xlsx_result.png" width="100%">
-
 ## Motivation
 
 For the submission of this project, I was encouraged to not only adapt the codes to some given datasets, but to understand the undergoing functionality of each algorithm. Particularly, I wanted to get a better notion of when to use each algorithm and how well I they can perform under different characteristics, without overfitting them.   
