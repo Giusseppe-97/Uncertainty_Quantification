@@ -10,7 +10,7 @@ nav_order: 1
 <img src="regression_results.JPG" width="100%">
 
 
-Next, I will show the comparisson of the algorithms chosen for each dataset:
+Next, I will show the comparisson of the algorithms chosen for each dataset. You can check my code [here](https://github.com/Giusseppe-97/statistical_learning/tree/main/code/code_regression).
 
 # Parkinson's:
 
