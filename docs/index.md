@@ -27,6 +27,6 @@ Check the [demos](pages/demos/demos.html) to see:
   + Stochastic Galerkin Method
     + Problem 2. Solve a differential equation with uniformed distributed alpha and beta using the Stochastic Galerkin Method.
   + Collocation Method
-    + Problem 3. Solve problem 1 using the Collocation Method.
+    + Problem 3. Solve problem 2 using the Collocation Method.
 + Matlab code.
 + Takeaway
