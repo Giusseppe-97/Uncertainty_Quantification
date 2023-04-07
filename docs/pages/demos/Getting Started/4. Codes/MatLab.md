@@ -8,7 +8,7 @@ nav_order: 4
 
 # Following the codes
 
-Next, I will show the the codes in Matlab for each of the problems. You can check my code files [here](https://github.com/Giusseppe-97/Uncertainty_Quantification\docs\pages\demos\Getting Started\/code/).
+Next, I will show the the codes in Matlab for each of the problems. You can check my code files [here](https://github.com/Giusseppe-97/Uncertainty_Quantification/tree/main/code).
 
 # Poisson's equation:
 <img src="mat1.png" width="50%">
