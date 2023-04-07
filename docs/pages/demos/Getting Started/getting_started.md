@@ -14,6 +14,7 @@ The information in this project comes from the following books:
 
 <img src="reference_books.png" width="100%">
 <img src="numerical_methods.png" width="50%">
+<img src="reference_thesis.png" width="50%">
 
 
 
