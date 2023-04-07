@@ -5,7 +5,7 @@ parent: Getting started
 grand_parent: Demos
 nav_order: 2
 ---
-
+The pseudo code followed was the following:
 <img src="Pseudo code_2.png" width="100%">
 <img src="s1.png" width="100%">
 <img src="s2.png" width="100%">
@@ -26,4 +26,5 @@ nav_order: 2
 <img src="s17.png" width="100%">
 
 
-
+Reference: Emil Brandt Kærgaard, Spectral Methods for Uncertainty
+Quantication
