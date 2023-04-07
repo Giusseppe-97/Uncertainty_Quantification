@@ -8,7 +8,15 @@ nav_order: 1
 
 #  Summary
 
-<img src="classification_results.JPG" width="100%">
+<img src="t1.JPG" width="100%">
+<img src="t2.JPG" width="100%">
+<img src="t3.JPG" width="100%">
+<img src="t4.JPG" width="100%">
+<img src="t5.JPG" width="100%">
+<!-- <img src="t6.JPG" width="100%">
+<img src="t7.JPG" width="100%">
+<img src="t8.JPG" width="100%">
+<img src="t9.JPG" width="100%"> -->
 
 Theory on the approximation of vectors
 
