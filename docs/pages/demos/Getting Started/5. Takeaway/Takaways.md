@@ -6,7 +6,19 @@ grand_parent: Demos
 nav_order: 5
 ---
 
-Classical methods and finite element methods (FEM) are both used to solve partial differential equations (PDEs), but they have some key differences. Classical methods, such as the Galerkin, and collocation methods, are based on a set of trial functions that are chosen to approximate the solution of the PDE. These methods typically rely on the use of orthogonality conditions and projection operators to obtain the approximate solution. The main advantage of classical methods is that they are relatively simple to implement and understand. However, their accuracy can be limited, especially for complex geometries and boundary conditions.FEM, on the other hand, is a more general and powerful technique for solving PDEs. It is based on the idea of breaking up the solution domain into a set of small, interconnected elements, and approximating the solution within each element using a set of basis functions. The solution is then obtained by solving a set of algebraic equations that are derived from the PDE and the boundary conditions. FEM is more versatile than classical methods, as it can handle a wide range of problems involving different geometries and boundary conditions. However, it can be more computationally intensive and requires specialized software to implement. In summary, classical methods are simpler but less accurate, while FEM is more accurate and versatile but requires more computational resources.
+This project was a challenging journey through classical Spectral Methods and finite element methods (FEM) execution. In particular, the Galerkin method and the collocation method. These methods, even when coming from a similar structure, (With the stochastic collocation being a special form of the stochastic
+Galerkin), had a lot of differences. For instance, the fundamental structure of the Galerkin was based on the projection of the weight residuals onto the space of approximating polynomials, while the collocation was purely based on interpolation. On the other hand, the Galerkin is an intrusive method, which makes it more computationally challenging than the non-intrusive Collocation. Additionally, working with Galerkin is restricted by two very big assumptions for the use of polynomial chaos expansion:
+
++ It can be used only for densities with associated orthogonal polynomials, not feasible for general densities.
+
++ It relies on the assumption that the random parameters are mutually independent.
+
+On the contrary, the stochastic collocation method is applicable to general parameter distributions, which makes a significant advantage over the Galerkin method where the orthogonality of the inner products depends on the compatibility between the density function and the basis polynomials, which can't be always found.
+The collocation, by choosing the quadrature points as collocation points, we can decouple the parametric and spatial components of the Galerkin projection, making it computationally more efficient.
+
+It was interesting to learn about FEM, a very general and powerful technique for solving PDEs. The breaking up of the solution domain into a set of small, interconnected elements, is easy to follow, and the approximation of the solution within each element using a set of basis functions makes it very robust. The solution by solving a set of algebraic equations turns out to be a bit cumbersome when derived from a particular PDE and the boundary conditions. Of course, when implemented is captivating. It was computationally intensive and required deepening into the literature to adapt and implement the codes. 
+
+
 
 
 

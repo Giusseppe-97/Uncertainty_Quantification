@@ -19,7 +19,7 @@ Next, I will show the the codes in Matlab for each of the problems. You can chec
 
 # Stochastic Galerkin Problem 
 
-<img src="s16.png" width="50%">
+<img src="code ga.png" width="50%">
 <img src="Solution.png" width="50%">
 
 #  Stochastic Collocation Problem
