@@ -17,10 +17,10 @@ Next, I will show the the codes in Matlab for each of the problems. You can chec
 <img src="mat4.png" width="100%">
 <img src="mat5.png" width="100%">
 
-# Stockastic Galerkin Problem 
+# Stochastic Galerkin Problem 
 
 This dataset describes airfreight comprises tracking and tracing events from a forwarding company’s 
 
-#  Stockastic Collocation Problem
+#  Stochastic Collocation Problem
 
 This dataset is trying to determine the league of a skillful gamer based on ability attributes. 
