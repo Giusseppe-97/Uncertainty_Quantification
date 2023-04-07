@@ -6,8 +6,6 @@ grand_parent: Demos
 nav_order: 1
 ---
 
-#  Summary
-
 <img src="t1.png" width="100%">
 <img src="t2.png" width="100%">
 <img src="t3.png" width="100%">
