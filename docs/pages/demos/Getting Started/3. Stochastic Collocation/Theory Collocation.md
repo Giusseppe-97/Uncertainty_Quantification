@@ -5,23 +5,22 @@ parent: Getting started
 grand_parent: Demos
 nav_order: 3
 ---
+The pseudo code followed was the following:
+<img src="pseudocode.png" width="100%">
 
-<img src="t1.png" width="100%">
-<img src="t2.png" width="100%">
-<img src="t3.png" width="100%">
-<img src="t4.png" width="100%">
-<img src="t5.png" width="100%">
-<img src="t6.png" width="100%">
-<img src="t7.png" width="100%">
-<img src="t8.png" width="100%">
-<img src="t9.png" width="100%">
-<img src="t10.png" width="100%">
-<img src="mat1.png" width="100%">
-<img src="mat2.png" width="100%">
-<img src="mat3.png" width="100%">
-<img src="mat4.png" width="100%">
-<img src="mat5.png" width="100%">
+<img src="c1.png" width="100%">
+<img src="c2.png" width="100%">
+<img src="c3.png" width="100%">
+<img src="c4.png" width="100%">
+<img src="c5.png" width="100%">
+<img src="c6.png" width="100%">
+<img src="c7.png" width="100%">
+<img src="c8.png" width="100%">
+<img src="c9.png" width="100%">
+<img src="c10.png" width="100%">
 
 
+Reference: Emil Brandt Kærgaard, Spectral Methods for Uncertainty
+Quantication
 
 
