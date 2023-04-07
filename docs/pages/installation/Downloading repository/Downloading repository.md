@@ -5,17 +5,17 @@ parent: Installation
 nav_order: 1
 ---
 
-## Downloading the statistical_learning repository
+## Downloading the UQ repository
 
-statistical_learning is available for free download under a GNU GENERAL PUBLIC LICENSE. The latest release can be downloaded [here](https://github.com/Giusseppe-97/statistical_learning). 
+The UQ is available for free download under a GNU GENERAL PUBLIC LICENSE. The latest release can be downloaded [here](https://github.com/Giusseppe-97/UQ). 
 
-1. Download the .zip file hosted on https://github.com/Giusseppe-97/statistical_learning.
-2. Extract the data. We recommend to use a simple path to extract them, such as `C:\Users\<user-name>\Documents`.
-3. Rename the extracted folder to `statistical_learning` to your convenience.
-4. Make sure the `statistical_learning` folder look like this:
+1. Download the .zip file hosted on https://github.com/Giusseppe-97/UQ.
+2. Extract the data. I recommend to use a simple path to extract them, such as `C:\Users\<user-name>\Documents`.
+3. Rename the extracted folder to `UQ` to your convenience.
+4. Make sure the `UQ` folder look like this:
 
 ```
-C:\Users\<user-name>\Documents\statistical_learning
+C:\Users\<user-name>\Documents\UQ
                       |
                       |- bin\
                       |- code\
@@ -30,9 +30,9 @@ C:\Users\<user-name>\Documents\statistical_learning
                                                                          
 ```
 
-## Verifying the statistical_learning repository
+## Verifying the UQ repository
 
-Go to <https://github.com/Giusseppe-97/statistical_learning>, and check if the files match the one you just downloaded.
+Go to <https://github.com/Giusseppe-97/UQ>, and check if the files match the one you just downloaded.
 If they don't, verify that you downloaded the last version.
 
 If they do, you are now ready to try the first [demo](../../demos/Getting Started/getting_started.html)!

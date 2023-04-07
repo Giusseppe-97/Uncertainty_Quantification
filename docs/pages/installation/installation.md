@@ -10,5 +10,5 @@ nav_order: 2
 * TOC
 {:toc}
 
-This page discusses how to download the statistical learning repository.
+This page discusses how to download the UQ repository.
 
