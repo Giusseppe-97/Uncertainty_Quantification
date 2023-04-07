@@ -2,8 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 
 # Auxiliary links for the upper right navigation.
 aux_links:
-  "Statistical_learning_project":
-    - http://giusseppe-97.github.io/statistical_learning/  
+  "UncertaintyQuantiification":
+    - http://giusseppe-97.github.io/UncertaintyQuantiification/  
   
 
   
@@ -17,4 +17,4 @@ aux_links:
 footer_content: "Written by Jose P. Navarro P."
 
 # This is the title of the website
-title: "Statistical_learning_final_project"
+title: "UQ Galerkin Project"
