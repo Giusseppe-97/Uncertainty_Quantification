@@ -1,5 +1,5 @@
 ---
-title: Theory Stochastic Galerkin
+title: 2. Theory Stochastic Galerkin
 has_children: false
 parent: Getting started
 grand_parent: Demos

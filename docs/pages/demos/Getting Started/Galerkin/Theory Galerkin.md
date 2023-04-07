@@ -1,5 +1,5 @@
 ---
-title: Theory Galerkin
+title: 1. Theory Galerkin
 has_children: false
 parent: Getting started
 grand_parent: Demos
