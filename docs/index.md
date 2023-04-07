@@ -23,11 +23,10 @@ Check the [installation](pages/installation/installation.html) to learn how to c
 Check the [demos](pages/demos/demos.html) to see:
 + Theory.
   + Galerkin Method
+    + Problem 1. Solve Poisson's equation using the Galerkin Method. 
+  + Stochastic Galerkin Method
+    + Problem 2. Solve a differential equation with uniformed distributed alpha and beta using the Stochastic Galerkin Method.
   + Collocation Method
-+ Analysis.
-  + Problem 1. Solve a differential equation with uniformed distributed alpha and beta using the Stochastic Galerkin Method.
-  + Problem 2. Solve problem 1 using the Collocation Method.
-  + Problem 3. Solve Poisson's equation using the Galerkin  Method. 
-+ Analysis.
-  + Python code.
-  + Matlab code.
+    + Problem 3. Solve problem 1 using the Collocation Method.
++ Matlab code.
++ Takeaway
