@@ -3,7 +3,7 @@ title: 2. Theory Stochastic Galerkin
 has_children: false
 parent: Getting started
 grand_parent: Demos
-nav_order: 1
+nav_order: 2
 ---
 
 <img src="t1.png" width="100%">

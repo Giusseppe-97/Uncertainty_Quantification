@@ -3,7 +3,7 @@ title: 3. Theory Collocation
 has_children: false
 parent: Getting started
 grand_parent: Demos
-nav_order: 1
+nav_order: 3
 ---
 
 <img src="t1.png" width="100%">

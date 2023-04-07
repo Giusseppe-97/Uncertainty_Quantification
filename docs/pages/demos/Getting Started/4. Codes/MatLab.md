@@ -3,7 +3,7 @@ title: 4. Matlab
 has_children: false
 parent: Getting started
 grand_parent: Demos
-nav_order: 1
+nav_order: 4
 ---
 
 # Following the codes
